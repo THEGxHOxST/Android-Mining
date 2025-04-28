@@ -1,8 +1,8 @@
 {
 	"pools":[
 	{
-		"name": "pool.verus.io",
-        "url": "stratum+tcp://pool.verus.io:9998",
+		"name": "vipor.net",
+        "url": "stratum+tcp://us.vipor.net:5040",
 		"timeout": 150,
 		"disabled": 1
 	},
